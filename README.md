@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Arun 👋
 
-<!--
-**arunkumar-7/arunkumar-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Final Year Student from Hyderabad  
+💻 Interested in Java and Web Development  
+🚀 Currently improving my development and problem-solving skills  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- SQL
+- HTML
+- CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/arun-kumar-bathini
+
+## Goals
+- Build strong development skills
+- Contribute to real-world projects
+- Start my career as a software developer
