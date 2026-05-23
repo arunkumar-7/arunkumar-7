@@ -13,6 +13,7 @@
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/arun-kumar-bathini
+- Portfolio: https://arunkumar-7.github.io/portfolio-web-page
 
 ## Goals
 - Build strong development skills
