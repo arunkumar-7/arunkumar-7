@@ -9,7 +9,6 @@
 - SQL
 - HTML
 - CSS
-- Git & GitHub
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/arun-kumar-bathini
